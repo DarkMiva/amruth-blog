@@ -1,1 +1,1 @@
-# amruth-blog
+# Manideep-Blog
